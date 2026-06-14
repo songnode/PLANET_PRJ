@@ -4,7 +4,7 @@
 > 약 2개월(8주) 실전 모의 프로젝트 / 머신러닝·생성형 AI(LLM)·AI Agent 통합
 > 데이터셋: Kaggle Telco Customer Churn (`blastchar/telco-customer-churn`)
 >
-> **이 문서는 필수(MVP) 범위만 담은 버전입니다.** SMOTE·다중 모형 비교·앙상블·SHAP·대시보드·모델 서빙 등 권장·스트레치 항목은 v2 문서(`telco_churn_retention_project_plan_필수+선택.md`)를 참조하세요.
+> **이 문서는 필수(MVP) 범위만 담은 버전입니다.** SMOTE·다중 모형 비교·앙상블·SHAP·대시보드·모델 서빙 등 권장·스트레치 항목은 (`telco_churn_retention_project_plan_필수+선택.md`)를 참조하세요.
 
 ---
 
